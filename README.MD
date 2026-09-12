@@ -97,6 +97,10 @@ Suggestions, feedback, bug reports, and educational suggestions are welcome.
 
 If you find a problem with the game, please open an **Issue** in this repository.
 
+## 🎮 Download
+
+[![Download Game](https://img.shields.io/badge/Download-Game-brightgreen?style=for-the-badge)](../../releases/latest)
+
 ---
 
 **Aventura na Célula**
