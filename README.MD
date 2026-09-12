@@ -58,7 +58,17 @@ The latest version of the game can be downloaded from the **Releases** section o
 
 ## 📸 Screenshots
 
-Screenshots of the game will be added here.
+### Animal Cell
+
+![Animal Cell](animal-cell.png)
+
+### Plant Cell
+
+![Plant Cell](plant-cell.png)
+
+### Choose your Cells
+
+![Choose your Cells](cells.png)
 
 ## 🎓 Educational Purpose
 
