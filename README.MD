@@ -81,7 +81,38 @@ The project seeks to provide students with an alternative way of understanding c
 **Juan Carlos Ramos de Oliveira**
 
 MSc Student in General and Applied Biology
-Institute of Biosciences – São Paulo State University (IBB/UNESP)
+Institute of Biosciences – São Paulo State University (IBB/UNESP), Botucatu, Brazil
+
+## 🎓 Academic Advisor
+
+**Ariane Leite Rozza**
+
+Institute of Biosciences – São Paulo State University (IBB/UNESP), Botucatu, Brazil
+
+## 🎓 Educational Project
+
+*Aventura na Célula* was developed as an educational and science communication project focused on making cell biology more accessible to high school students through interactive digital resources.
+
+The project explores the use of a three-dimensional virtual environment as a complementary educational tool, allowing students to interactively explore animal and plant cells and learn about cellular structures and their biological functions.
+
+## 🤝 Acknowledgments
+
+The authors acknowledge the Institute of Biosciences of São Paulo State University (IBB/UNESP) and the academic guidance of **Ariane Leite Rozza** for supporting the development of this educational and science communication project.
+
+The project is intended to support educational activities in schools, universities, science communication initiatives, workshops, and other non-commercial educational contexts.
+
+## 📚 Suggested Citation
+
+If you use *Aventura na Célula* in an academic, educational, or science communication activity, please cite the project as:
+
+> Oliveira, J. C. R. *Aventura na Célula: an educational 3D game for cell biology*. With academic guidance from Ariane Leite Rozza. São Paulo State University (UNESP), Institute of Biosciences, 2026.
+
+Please also provide the link to the official GitHub repository whenever possible.
+
+## 📬 Contact
+
+For questions regarding educational use, collaborations, permissions for uses outside the scope of the license, or other inquiries, please contact the project author through the contact information provided in the GitHub profile.
+
 
 ## 📚 Project
 
