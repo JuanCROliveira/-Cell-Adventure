@@ -89,7 +89,13 @@ This project is part of an initiative focused on science communication and the d
 
 ## 📄 License
 
-The license and terms of use of this project will be specified in the `LICENSE` file.
+Aventura na Célula is available for educational and non-commercial use under the **Aventura na Célula Educational Non-Commercial License**.
+
+The game may be freely used in schools, universities, classrooms, educational activities, workshops, and science communication initiatives.
+
+Commercial use, sale, licensing, or modification of the game is not permitted without prior written authorization from the copyright holder.
+
+See the [LICENSE](LICENSE) file for the complete terms.
 
 ## 🤝 Contributions
 
